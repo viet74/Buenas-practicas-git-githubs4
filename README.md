@@ -15,3 +15,4 @@ Esto ayuda a otros colaboradores a entender la historia del proyecto.
 
 Trabajar en ramas permite desarrollar nuevas funcionalidades y corregir errores sin afectar la rama principal.  
 Al terminar, se fusionan los cambios mediante un Pull Request.
+ 19-9-25
